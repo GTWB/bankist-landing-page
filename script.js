@@ -259,3 +259,15 @@ const slider = function () {
   });
 };
 slider();
+
+// MOBILE MENU OPEN CLOSE
+const topNavMobile = document.querySelector('.nav_container_mobile');
+const navLinksMobileContainer = document.querySelector('.nav__links__mobile');
+topNavMobile.addEventListener('click', e => {
+  if (
+    e.target.classList.contains('modal_mobile_menu') ||
+    e.target.classList.contains('nav__link')
+  ) {
+    navLinksMobileContainer.classList.toggle('none');
+  }
+});
