@@ -3,8 +3,7 @@
 A responsive and performance-optimised landing page for a fictional digital bank, built with modern HTML, CSS, and vanilla JavaScript.  
 This project focuses on smooth UI interactions, modern DOM techniques, and testability.
 
-🔗 **Live Demo**: https://gtwb.github.io/Bankist_Landig_page  
-📁 **GitHub Repo**: https://github.com/GTWB/Bankist_Landig_page
+🔗 **Live Demo**: https://gtwb.github.io/bankist-landing-page/
 
 ---
 
